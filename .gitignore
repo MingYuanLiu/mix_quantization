@@ -1,0 +1,15 @@
+# datset
+cifar10/
+imagenet/
+
+# pretrained
+models/pretrained/
+
+# temp file
+temp/
+runs/
+
+# log 
+nohup.out
+
+__pycache__/
